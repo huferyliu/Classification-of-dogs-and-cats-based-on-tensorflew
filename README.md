@@ -4,5 +4,4 @@ This is a project about dog and cat identification based on tensorflew.
 1. 猫狗分类数据集：本实验使用实验数据基于kaggle Dogs vs. Cats 竞赛提供的官方数据集，数据集可在百度网盘中进行下载：
 链接：https://pan.baidu.com/s/13hw4LK8ihR6-6-8mpjLKDA 密码：dmp4。
 
-我们在获得数据后，需要先对数据进行照片的分类
-利用classify.py  先修改好路径，这样方便分类。
+我们在获得数据后,需要先对数据进行照片的分类,利用classify.py  先修改好路径,这样方便分类.
