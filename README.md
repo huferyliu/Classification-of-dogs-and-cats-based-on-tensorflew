@@ -16,8 +16,12 @@ This is a project about dog and cat identification based on tensorflew.
 https://www.bilibili.com/video/BV1rd4y187nM/?spm_id_from=333.1391.0.0&vd_source=bffb1b050d9ccb5c74ac3b797aa33a24
 
 
+
 实验环节
-在上述都做好后,达到了main.py文件的结构后,就可以点击到train.py去运行代码，训练了,在得到训练的模型后,就可以运行predict.py,这是验证模型的测试代码,我们选择一张图片，等待给出结果即可.
+在上述都做好后,达到了main.py文件的结构后,就可以点击到train.py去运行代码，训练模型了.
+在得到训练的模型后,就可以运行predict.py,这是验证模型的测试代码,我们选择一张图片，等待给出结果即可.
+
+
 
 ![test](https://github.com/user-attachments/assets/cf4cc47c-494e-4fce-ae8b-f32fad1ab4cc)
 
